@@ -6,23 +6,23 @@ A modern and responsive personal portfolio website showcasing my education, tech
 
 https://thiru2006.github.io/thirugnanam-vs/
 
-> Replace the above URL with your GitHub Pages URL if it is different.
+> If GitHub Pages has not been enabled yet, the link may not be available.
 
 ---
 
-## 📌 Features
+## ✨ Features
 
 - Responsive Design
 - Smooth Scrolling Navigation
 - Animated Sections using AOS
 - Modern User Interface
 - Mobile Friendly
-- Clean and Simple Layout
-- Contact Information
+- About Me Section
 - Skills Section
-- Education Timeline
-- Certifications
 - Experience Section
+- Education Section
+- Certifications Section
+- Contact Information
 
 ---
 
@@ -39,12 +39,7 @@ https://thiru2006.github.io/thirugnanam-vs/
 ## 📂 Project Structure
 
 ```
-portfolio/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
+thirugnanam-vs/
 │
 ├── css/
 │   └── style.css
@@ -68,19 +63,15 @@ portfolio/
 git clone https://github.com/Thiru2006/thirugnanam-vs.git
 ```
 
-### Open the project
+### Navigate to the project
+
+```bash
+cd thirugnanam-vs
+```
+
+### Run the project
 
 Open `index.html` in your preferred web browser.
-
----
-
-## 📷 Screenshots
-
-Add screenshots of your portfolio inside:
-
-```
-assets/screenshots/
-```
 
 ---
 
